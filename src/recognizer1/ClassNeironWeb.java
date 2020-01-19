@@ -42,8 +42,8 @@ public class ClassNeironWeb  {
     double[]tes1;
     double[]recognizerInput;
     JFrame frame;
-    String pathToFolderForLearning="E:/LearnPackDigitals";
-    String pathToFileForTest="E:/test.png";
+    String pathToFolderForLearning="E:/Eclipse/Recognizer/LearnPackDigitals";
+    String pathToFileForTest="E:/Eclipse/Recognizer/test.png";
     String pathToFileWithWeigths="";
     
     public ClassNeironWeb(List <Integer> count){
